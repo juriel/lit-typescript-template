@@ -1,0 +1,9 @@
+{
+    "fiveServer.config": {
+        "root": "web",
+        "browser": "google-chrome",
+        "open": true,
+        "port": 5500,
+        "reload": true
+      }
+}
