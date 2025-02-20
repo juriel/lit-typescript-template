@@ -7,6 +7,7 @@ This is a template project for TypeScript with Lit.
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run `yarn install` to install the project dependencies.
+4. Run `yarn add webpack webpack-cli ts-loader typescript -D`
 
 ## Usage
 
